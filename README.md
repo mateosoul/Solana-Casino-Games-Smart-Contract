@@ -16,16 +16,20 @@ All games run entirely via Solana smart contracts, offering transparency, fair r
 
 ## 📞 Contact
 
-<div align="center">
+<div>
 
 ### 💬 Get in Touch
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mateosoul)
 
-**Telegram:** [t.me/mateosoul](https://t.me/mateosoul)
+** Gmail ** : mateo.talentdev@gmail.com
+
+** Telegram ** : [@mateosoul](https://t.me/mateosoul)
+
+** Discord ** : [@mate0soul](https://discord.com/channels/@me/1436353452853821604)
+
 
 ---
-
+</div>
 
 
 ## 🎮 Games Suite
